@@ -21,4 +21,4 @@ _Las herramientas utilizadas para crear el proyecto_
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo realizar este proyecto en este video explicativo [Youtube](https://www.youtube.com/watch?v=7J4G1I005GA&ab_channel=AdolfoSaltoS%C3%A1nchezdelCorral)
+Puedes encontrar mucho más de cómo realizar este proyecto en este video explicativo de [Youtube](https://www.youtube.com/watch?v=7J4G1I005GA&ab_channel=AdolfoSaltoS%C3%A1nchezdelCorral)
