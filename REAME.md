@@ -13,7 +13,7 @@ _Para ejecutar un FIND debemos abrir un nuevo terminal en el que abriremos mongo
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Las herramientas utilizadas para crear el proyecto_
 
 * [MongoDB](https://www.mongodb.com/) - La Base de Datos usada
 * [Manual](https://docs.mongodb.com/manual/) - Manual donde encontramos información acerca de los Query Operations
